@@ -1,0 +1,29 @@
+2D Arrays:
+    are arrays that contain 1D arrays.
+Why we should learn abaut 2D arrays.
+Because they allow us to store multiple and D arrays which gives us more flexibility to store data
+for example if we have to store data from excel files we can use 2D Arrays.
+Syntax to create 2D Arrays:
+
+First way:
+datatype[][] nameofArray=new datatype[size of rows][];
+Second way:
+datatype[][] nameofArray=new datatype{{data,data,data;}}
+
+System.out.println(matrix[2][4]);
+System.out.println(Arrays.toString(matrix[0]));
+
+System.out.println(matrix[1][i]);
+int[]arr=matrix[1];// getting complete first array from 2D array
+System.out.println(arr[i]);
+
+sum = sum + numbers[i][j];
+sum+=numbers[i][j];
+sum++;
+
+
+OOP i nothing but some set of rules that if we follow achieve below
+1-representing real of rules that if we follow we achieve
+1-code repetition is minimized
+2-changing existing code and adding new features becomes easier.
+3-Helps write sceure code.

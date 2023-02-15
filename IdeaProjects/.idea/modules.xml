@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/HomeWork.iml" filepath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics -SDET/JavaBasics -SDET.iml" filepath="$PROJECT_DIR$/JavaBasics -SDET/JavaBasics -SDET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReview/JavaReview.iml" filepath="$PROJECT_DIR$/JavaReview/JavaReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Replit/Replit.iml" filepath="$PROJECT_DIR$/Replit/Replit.iml" />
+    </modules>
+  </component>
+</project>
